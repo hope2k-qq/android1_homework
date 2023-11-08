@@ -80,7 +80,7 @@
         app:layout_constraintStart_toEndOf="@+id/clear" />
 
     <Button
-        android:id="@+id/interest"
+        android:id="@+id/percent"
         android:layout_width="85dp"
         android:layout_height="85dp"
         android:layout_marginBottom="5dp"
@@ -242,7 +242,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="10dp"
-        android:text="336"
+        android:text="0"
         android:textColor="@color/white"
         android:textSize="110dp"
         app:layout_constraintBottom_toTopOf="@+id/division"
